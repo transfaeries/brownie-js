@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "bufferutil": "^4.0.8",
+    "discord.js": "^14.15.2",
+    "utf-8-validate": "^6.0.4",
+    "zlib-sync": "^0.1.9"
+  },
+  "name": "brownie",
+  "version": "1.0.0",
+  "description": "A discord bot to help in the faerie servers",
+  "main": "brownie.js",
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transfaeries/brownie-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "transfaeries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transfaeries/brownie-bot/issues"
+  },
+  "homepage": "https://github.com/transfaeries/brownie-bot#readme"
+}
